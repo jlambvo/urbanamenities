@@ -9,7 +9,7 @@ This is a set of programs used in my dissertation research to construct a reside
 6. **HMDA Mortgage Data** is a publically accessible archive of national mortage applicant characteristics that must be reported by lenders to the Consumer Financial Protection Bureau. 
 7. **Electronic Certificates of Real-Estate Value (eCRV) (MN Only)** are required to be filed with the MN Dept. of Revenue for all property transactions over $3,000, and are a publicly accessible alternative to ZTRAX for this state.
 8. **Minneapolis-St. Paul Metropolitan Council (MN Only)** supplies a variety of data unique to the Twin Cities including parcel boundaries, tax information, transit data, and school attendance boundaries for the 7-county metro area. 
-9. **University of Minnesota Remote Sensing and Geospatial Analysis Laboratory* (MN Only)** provides a refined version of the 1m-resolution landcover data used by the EPA EnviroAtlas and with slightly expanded spatial coverage. Similar products may be found in other regions. 
+9. **University of Minnesota Remote Sensing and Geospatial Analysis Laboratory (MN Only)** provides a refined version of the 1m-resolution landcover data used by the EPA EnviroAtlas and with slightly expanded spatial coverage. Similar products may be found in other regions. 
 
 Functions for constructing the combined dataset are organized into multiple source files and externalized inputs. The eventual goal is to convert this to a package that can be easily used on any system. In the meantime, interested users will need to take care that paths and folder structures are updated to reflect the local environment. The source is organized as follows:
 
