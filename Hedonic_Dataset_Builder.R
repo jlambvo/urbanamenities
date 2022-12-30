@@ -3,10 +3,10 @@
 ## Author: Jonathan Lamb
 ## Created: July
 ##
-## Purpose: This program builds on work by Kelsey O'Hollaren to construct
-## a dataset combining transaction and assessor data, U.S. Census, EPA EnviroAtlas,
-## and Open StreetMaps to estimate hedonic valuation and complementarities 
-## between urban amenities. 
+## Purpose: This script creates an enriched dataset of one or more metropolitan 
+## areas for hedonic price analysis of urban amenities. Supporting source files
+## combine public transaction and assessor data, U.S. Census, EPA EnviroAtlas,
+## Open StreetMaps, and other sources described in the README.
 ##
 ##===========================================================================##
 
